@@ -1,0 +1,19 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build
+build/
+.gradle/
+out/
+node_modules/
+dist/
+
+# Secrets et environnement
+.env
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
